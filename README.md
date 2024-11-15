@@ -75,15 +75,14 @@ if __name__ == "__main__":
     print(input_text)
     print("\nSummary:")
     print(summary)
-    
-    ```
+````
 
 ## Output:
 
 ![image](https://github.com/user-attachments/assets/ec1a6389-a855-4008-ba38-8e004dc081d0)
 
 
-<H3>Result:</H3>
+## Result:
 Thus ,the program to perform the Text summarization is executed sucessfully.
 
 
